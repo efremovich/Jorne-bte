@@ -1,0 +1,166 @@
+[
+  {
+    "name": "CoJian RU",
+    "notes": "hello Mary.",
+    "switchMount": "cherry",
+    "switchBrand": "gateron",
+    "switchType": "KS-3-Green",
+    "plate": true
+  },
+  [
+    {
+      "c": "#f4dc9c",
+      "a": 5
+    },
+    "~\n`",
+    {
+      "c": "#dfdacf"
+    },
+    "!\n1",
+    "@\n2",
+    "#\n3",
+    "$\n4",
+    "%\n5",
+    "^\n6",
+    "&\n7",
+    "*\n8",
+    "(\n9",
+    ")\n0",
+    {
+      "c": "#f4dc9c"
+    },
+    "-\n_"
+  ],
+  [
+    {
+      "a": 7
+    },
+    "",
+    {
+      "c": "#dfdacf"
+    },
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    {
+      "c": "#f4dc9c",
+      "a": 5
+    },
+    "{\n["
+  ],
+  [
+    {
+      "c": "#909596",
+      "a": 7
+    },
+    "Ctrl",
+    {
+      "c": "#dfdacf"
+    },
+    "A",
+    "S",
+    "D",
+    {
+      "n": true
+    },
+    "F",
+    "G",
+    "H",
+    {
+      "n": true
+    },
+    "J",
+    "K",
+    "L",
+    {
+      "c": "#f4dc9c",
+      "a": 5
+    },
+    ":\n;",
+    {
+      "c": "#b1ac98",
+      "a": 4
+    },
+    "\n'\nCtrl\n\n\n\n\""
+  ],
+  [
+    {
+      "c": "#cccccc",
+      "a": 7
+    },
+    "",
+    "",
+    {
+      "c": "#dfdacf"
+    },
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    {
+      "c": "#f4dc9c",
+      "a": 5
+    },
+    "<\n,",
+    ">\n.",
+    {
+      "c": "#cccccc",
+      "a": 7
+    },
+    "",
+    ""
+  ],
+  [
+    "",
+    {
+      "c": "#b1ac98",
+      "a": 4
+    },
+    "\n\nSuper",
+    {
+      "c": "#dfdacf",
+      "a": 7
+    },
+    "Z",
+    {
+      "c": "#909596",
+      "a": 4
+    },
+    "\nTab\nRaise",
+    {
+      "n": true
+    },
+    "\nSpace\nShift",
+    "\nEnter\nLower",
+    "\nEsc\nLower",
+    {
+      "n": true
+    },
+    "\nBckSp\nShift",
+    "\nDel\nRaise",
+    {
+      "c": "#f4dc9c",
+      "a": 5
+    },
+    "?\n/",
+    {
+      "c": "#b1ac98",
+      "a": 4
+    },
+    "\n]\nSuper\n\n\n\n}",
+    {
+      "c": "#cccccc",
+      "a": 7
+    },
+    ""
+  ]
+]
